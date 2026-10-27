@@ -32,4 +32,4 @@ Foros, redes sociales personales, agregadores, blogs sin autoría identificable,
 - Ausencia de evidencia pública sobre un tema esperable (se destaca como tal).
 
 ## Notas
-Esta configuración no contiene información interna de COTESMA. No agregar.
+Esta configuración no contiene información sobre quien solicita la investigación. No agregar.

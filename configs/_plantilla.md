@@ -1,4 +1,4 @@
-> Copiar este archivo como configs/<actor>.md, completar todos los campos y no dejar información interna de COTESMA.
+> Copiar este archivo como configs/<actor>.md, completar todos los campos y no incluir información sobre quien solicita la investigación.
 
 # Configuración del actor: [Nombre del actor]
 
@@ -34,4 +34,4 @@ Foros, redes sociales personales, agregadores, blogs sin autoría identificable,
 - Ausencia de evidencia pública sobre un tema esperable (se destaca como tal).
 
 ## Notas
-Esta configuración no contiene información interna de COTESMA. No agregar.
+Esta configuración no contiene información sobre quien solicita la investigación. No agregar.
